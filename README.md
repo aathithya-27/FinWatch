@@ -105,7 +105,7 @@ A comprehensive, cross-platform mobile application for automatic financial track
 
 ### Installation
 
-1. **Clone the repository**
+1. **Clone the repository** (main branch contains the complete app)
    ```bash
    git clone https://github.com/aathithya-27/FinWatch.git
    cd FinWatch
